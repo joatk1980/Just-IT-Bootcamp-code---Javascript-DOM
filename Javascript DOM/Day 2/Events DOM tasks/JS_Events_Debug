@@ -1,0 +1,109 @@
+Please find the DOM tasks below
+
+JavaScript Events Tasks
+
+Before starting, familiarise yourself with the Event object documentation to understand
+
+what information you can access through events and how this information might be used in your tasks.
+
+https://developer.mozilla.org/en-US/docs/Web/Events
+
+Task 1: Click Event - Show and Hide Menus
+
+Step-by-Step Instructions:
+
+Create the HTML Structure:
+
+Add two buttons: one labeled "See Food Menu" and another labeled "See Drink Menu."
+
+Create corresponding content areas for the food and drink menus.
+
+Add Event Listeners in JavaScript:
+
+Write a function that toggles the visibility of the menu when the button is clicked.
+
+Use a method to change the button text based on whether the menu is visible or hidden.
+
+Test and Debug:
+
+Ensure the menus show and hide as expected when the buttons are clicked, and that the button text updates correctly.
+
+Task 2: Mouse Over and Mouse Out Events - Highlight Text
+
+Step-by-Step Instructions:
+
+Create the HTML Structure:
+
+Add a paragraph or heading element that will react when the mouse hovers over it.
+
+Add Event Listeners in JavaScript:
+
+Write functions to change the text and background color when the mouse is over the element and when it moves out.
+
+Test and Debug:
+
+Test that the text and background color change appropriately when you move your mouse over and out of the element.
+
+Task 3: Keypress Event - Change Input Field Style
+
+Step-by-Step Instructions:
+
+Create the HTML Structure:
+
+Set up a simple form with text input fields.
+
+Add Event Listener in JavaScript:
+
+Create a function that changes the background and text color of the input field whenever a key is pressed.
+
+Test and Debug:
+
+Type into the input field and verify that the style changes as expected.
+
+Research Tasks
+
+Task 1: Add an Element to the DOM
+
+Create the HTML Structure:
+
+Add a text input field and a submit button to your page.
+
+Add Event Listener in JavaScript:
+
+Write a function to create and add a new element to the DOM containing the input field's value when the button is clicked.
+
+Optionally, clear the input field after submission.
+
+Test and Debug:
+
+Make sure a new element is added with the correct content, and that the input field clears as intended.
+
+Task 2: Create a Counter
+
+Create the HTML Structure:
+
+Add buttons for incrementing and decrementing a counter, along with a display area to show the current count.
+
+Add Event Listeners in JavaScript:
+
+Write functions to increase or decrease the counter value each time the respective button is clicked.
+
+Test and Debug:
+
+Verify that the counter updates correctly when the buttons are pressed.
+
+Task 3: Show/Hide an Image
+
+Create the HTML Structure:
+
+Include an image and a button that will toggle its visibility.
+
+Add Event Listener in JavaScript:
+
+Write a function to show or hide the image when the button is clicked, and update the button text to reflect the current state.
+
+Test and Debug:
+
+Check that the image visibility toggles correctly and that the button text changes accordingly with each click.
+
+By following these instructions, you'll gain hands-on experience with JavaScript event handling and DOM manipulation, which are fundamental concepts in web development.

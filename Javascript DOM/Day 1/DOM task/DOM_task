@@ -1,0 +1,131 @@
+<!-- JS_DOM_Tasks
+
+JavaScript DOM Challenge Task
+
+Step 1: Set Up Your Files
+
+Create New Files:
+
+Create a new HTML file (e.g., index.html).
+
+Create a new JavaScript file (e.g., script.js).
+
+Ensure both files are linked correctly.
+
+
+You can do this by adding the following line within the
+
+<head> or just before the closing </body> tag of your 
+
+HTML file: 
+
+<script src="script.js"></script>
+
+
+Refer to Resources:
+
+
+You can refer to W3Schools' DOM tutorial link below for more information on how to interact with the DOM using JavaScript.
+
+https://www.w3schools.com/js/js_htmldom_methods.asp
+
+
+
+Step 2: Add and Select an <h1> Element
+
+Add an <h1> Element:
+
+
+Inside the <body> of your HTML file, add an <h1> element with some text inside it.
+
+
+
+
+<h1>Welcome to My Page</h1>
+
+Select the <h1> Element Using JavaScript:
+
+
+
+
+In your script.js file, use a DOM query method (e.g., document.querySelector) to select the <h1> element.
+
+Store the selected element in a variable.
+
+
+
+
+Step 3: Add an ID, Update Text Content, and Style the <h1>
+
+Add an ID to the <h1> Element:
+
+Use JavaScript to add an ID to the <h1> element (e.g., id="mainTitle").
+
+
+
+
+Update the Text Content:
+
+Change the text content of the <h1> element using JavaScript.
+
+
+
+
+Style the <h1> Element:
+
+Modify the styling of the <h1> element (e.g., change the color, font size, etc.) using JavaScript.
+
+Step 4: Create and Add a <ul> and <li> Elements
+
+
+
+
+Create a <ul> Element:
+
+Using JavaScript, create a <ul> element.
+
+
+
+
+Create and Add Three <li> Elements:
+
+Create three <li> elements using JavaScript and append them as children to the <ul> element.
+
+
+
+
+Add the <ul> to the Document:
+
+Append the <ul> element to the <body> or another appropriate element in your HTML document.
+
+Step 5: Edit the <li> Elements’ Content and Style
+
+
+
+
+Loop Through the <li> Elements:
+
+Use a loop to iterate over each <li> element you created.
+
+
+
+
+Update the Text Content:
+
+Change the text content of each <li> element within the loop.
+
+
+
+
+Style the <li> Elements:
+
+Modify the text color of each <li> element within the loop.
+
+Step 6: Remove the <h1> Element
+
+
+
+
+Remove the <h1> Element:
+
+Finally, use JavaScript to remove the <h1> element from the document. -->
